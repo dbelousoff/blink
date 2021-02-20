@@ -1,0 +1,12 @@
+  @font-face {
+    font-family: "Palanquin Dark";
+    font-style: normal;
+    font-weight: medium;
+    src: url(http://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d8rv27T5Qcc.woff2) format('woff2');
+ }
+@font-face {
+    font-family: "Palanquin Dark";
+    font-style: normal;
+    font-weight: bold;
+    src: url(http://fonts.gstatic.com/s/palanquindark/v7/xn76YHgl1nqmANMB-26xC7yuF8Z6ZV48d8rv27T5Qcc.woff2) format('woff2');
+}
