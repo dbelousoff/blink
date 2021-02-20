@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Roboto Mono";
+    font-style: normal;
+    font-weight: 500;
+    src: url(http://fonts.gstatic.com/s/robotomono/v13/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSx0me8iUI0lkQ.woff2) format('woff2');
+}
+@font-face {
+    font-family: "Roboto Mono";
+    font-weight: bold;
+    font-weight: 600;
+    src: url(http://fonts.gstatic.com/s/robotomono/v13/L0xTDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vrtSM1J-gEPT5Ese6hmHSV0me8iUI0lkQ.woff2) format('woff2');
+}
